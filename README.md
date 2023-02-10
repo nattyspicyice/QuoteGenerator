@@ -1,13 +1,16 @@
 # QuoteGenerator
 
-Victories
+![this is an image](images/UI-1.png)
+![this is an image](images/UI-2.png)
+![this is an image](images/UI-3.png)
+![this is an image](images/UI-4.png)
+
+## Victories
 - downloaded custom font
 - made custom image
-- manipulated CSS grid to get each div to display as needed
+- made responsive for all browsers sizes!
+- changed CSS grid into CSS flexbox, removed many lines of unnecessary code
 
-challenges
-- CSS is ruff
-- I wanted to center the button within its div but instead I made it the same width so it would line up with the quote box underneath it.
-- also this webpage is totally not responsive at all and that makes me sad but its ok
+## Challenges
+- Getting to learn CSS flex more
 
-https://github.com/nattyspicyice/QuoteGenerator/issues/1#issue-1430649928
